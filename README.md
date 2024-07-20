@@ -26,7 +26,7 @@
 <h3 align="left">블로그 & 프로젝트</h3>
 <p align="left">
   <a href="https://youngchannel.co.kr/"><img src="https://img.shields.io/badge/Blog-1a1a1a?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/></a>
-    <a href="https://youngchannel.co.kr/projects/"><img src="https://img.shields.io/badge/Go Project%201-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Project"/></a>
+    <a href="https://youngchannel.co.kr/projects/"><img src="https://img.shields.io/badge/Go Project-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Project"/></a>
 </p>
 
 <h3 align="left">연락 방법</h3>
