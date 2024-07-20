@@ -7,7 +7,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=youngchannelforyou&label=Profile%20views&color=ff69b4&style=flat-square" alt="youngchannelforyou" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/followers/youngchannelforyou?label=Followers&style=social" alt="followers" />
 </p>
 
 - 🔭 현재 **[당신의 프로젝트]** 작업 중이에요
