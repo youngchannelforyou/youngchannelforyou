@@ -23,16 +23,10 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
 
-<h3 align="left">프로젝트</h3>
+<h3 align="left">블로그 & 프로젝트</h3>
 <p align="left">
-  <a href="https://github.com/yourusername/yourproject1"><img src="https://img.shields.io/badge/Project%201-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Project 1"/></a>
-  <a href="https://github.com/yourusername/yourproject2"><img src="https://img.shields.io/badge/Project%202-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Project 2"/></a>
-  <a href="https://github.com/yourusername/yourproject3"><img src="https://img.shields.io/badge/Project%203-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Project 3"/></a>
-</p>
-
-<h3 align="left">블로그</h3>
-<p align="left">
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-1a1a1a?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/></a>
+  <a href="https://youngchannel.co.kr/"><img src="https://img.shields.io/badge/Blog-1a1a1a?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/></a>
+    <a href="https://youngchannel.co.kr/projects/"><img src="https://img.shields.io/badge/Project%201-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Project"/></a>
 </p>
 
 <h3 align="left">연락 방법</h3>
