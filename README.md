@@ -6,7 +6,7 @@
 <h3 align="left">[당신의 국가]에서 온 열정적인 개발자입니다</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=ff69b4&style=flat-square" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=youngchannelforyou&label=Profile%20views&color=ff69b4&style=flat-square" alt="youngchannelforyou" />
   <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers" />
 </p>
 
