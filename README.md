@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlignY=40&animation=twinkling&desc=I'm%20[Your%20Name]&descAlignY=60" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlignY=40&animation=twinkling&desc=I'm%20Chanyoung%20Yu&descAlignY=60" alt="header"/>
 </div>
 
 <h1 align="left">안녕하세요! 👋 저는 유찬영입니다</h1>
