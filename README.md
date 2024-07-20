@@ -10,17 +10,13 @@
   <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="streak stats" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="top languages" />
-  </a>
-</div>
+- 🔭 현재 **[당신의 프로젝트]** 작업 중이에요
+- 🌱 요즘 **[학습 중인 기술이나 주제]**을(를) 배우고 있어요
+- 👯 **[협업하고 싶은 프로젝트]**에 협업을 원해요
+- 🤔 **[도움이 필요한 문제]**에 대해 도움을 찾고 있어요
+- 💬 **[전문 분야]**에 대해 물어보세요
+- 📫 연락 방법: **[당신의 이메일]**
+- ⚡ 재미있는 사실: **[당신에 대한 재미있는 사실]**
 
 <h3 align="center">연락 방법</h3>
 <p align="center">
@@ -40,6 +36,25 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</p>
+
+<h3 align="center">프로젝트</h3>
+<p align="center">
+  <a href="https://github.com/yourusername/yourproject1"><img src="https://img.shields.io/badge/Project%201-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Project 1"/></a>
+  <a href="https://github.com/yourusername/yourproject2"><img src="https://img.shields.io/badge/Project%202-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Project 2"/></a>
+  <a href="https://github.com/yourusername/yourproject3"><img src="https://img.shields.io/badge/Project%203-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Project 3"/></a>
+</p>
+
+<h3 align="center">블로그</h3>
+<p align="center">
+  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-1a1a1a?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/></a>
+</p>
+
+<h3 align="center">취미 및 관심사</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Photography-007ACC?style=for-the-badge&logo=google%20photos&logoColor=white" alt="Photography"/>
+  <img src="https://img.shields.io/badge/Travel-008000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Travel"/>
+  <img src="https://img.shields.io/badge/Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="Music"/>
 </p>
 
 <div align="center">
