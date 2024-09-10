@@ -7,5 +7,5 @@
 
 ---
 # ETC
-#### Blog  :[Blog](https://youngchannel.co.kr/)
+#### Blog    :[youngchannel](https://youngchannel.co.kr/)
 #### Email  : - youngchannel4u@gmail.com
