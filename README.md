@@ -1,42 +1,11 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlignY=40&animation=twinkling&desc=I'm%20Chanyoung%20Yu&descAlignY=60" alt="header"/>
-</div>
-
-<h1 align="left">안녕하세요! 👋 저는 유찬영입니다</h1>
-<h3 align="left">데이터분석가를 준비하고 있습니다.</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=youngchannelforyou&label=Profile%20views&color=ff69b4&style=flat-square" alt="youngchannelforyou" />
-  <img src="https://img.shields.io/github/followers/youngchannelforyou?label=Followers&style=social" alt="followers" />
-</p>
+# 프로젝트
 
 
-<h3 align="left">기술 스택</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-</p>
+---
+# 학습 레파지스토리
 
-<h3 align="left">블로그 & 프로젝트</h3>
-<p align="left">
-  <a href="https://youngchannel.co.kr/"><img src="https://img.shields.io/badge/Blog-1a1a1a?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/></a>
-    <a href="https://youngchannel.co.kr/projects/"><img src="https://img.shields.io/badge/Go Project-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Project"/></a>
-</p>
 
-<h3 align="left">연락 방법</h3>
-<p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
-</p>
-
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:EEFF00&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=25&animation=twinkling&fontAlignY=70" alt="footer"/>
-</div>
+---
+# ETC
+#### [Blog](https://youngchannel.co.kr/)
+#### Email - youngchannel4u@gmail.com
