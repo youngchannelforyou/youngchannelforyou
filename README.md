@@ -5,10 +5,6 @@
 - #### [바퀴 달린 것은 다 스마트하게 : 대동모빌리티㈜ 기업분석](https://youngchannel.co.kr/projects/%EB%8C%80%EB%8F%99%EA%B8%B0%EC%97%85%EB%B6%84%EC%84%9D) | 2024년 5월 15일
 
 ---
-# 학습 레파지스토리
-
-
----
 # ETC
 #### - Blog    :[youngchannel](https://youngchannel.co.kr/)
 #### - Email  : youngchannel4u@gmail.com
